@@ -19,3 +19,9 @@ OPENAI_API_KEY=foo
 ```bash
 php bin/console app:ai:ask "Color de la bandera de Colombia"
 ```
+
+- Embedding
+
+```bash
+php bin/console app:ai:embedding-ask "Quiero aprender inteligencia artificial"
+```
